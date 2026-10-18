@@ -1,5 +1,5 @@
 Python Site Health Checker & Protocol Fallback
-A light Python tool for doing network uptime and health checks on websites. The script will format the input url for you, check http response status codes, measure time taken for the request, and falls back to http:// if an SSL certificate error is encountered. ✨
+A light Python tool for doing network uptime and health checks on websites. The script will format the input url for you, check http response status codes, measure time taken for the request, and falls back to http:// if an SSL certificate error is encountered.
 Features
 > Automated protocol formatting
 > SSL fallback mechanism
